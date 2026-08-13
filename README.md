@@ -11,7 +11,7 @@ Currently deepening my experience in:
 - GitOps
 - Observability
 
-## Engineering interests
+Engineering interests:
 
 - Infrastructure & platform engineering
 - System design and production architecture
