@@ -1,1 +1,10 @@
-Software Engineer with strong Python/backend foundations and hands-on experience in Linux, Docker, CI/CD, infrastructure automation, and production systems.
+DevOps / Platform Engineer
+
+Software engineer focused on infrastructure, automation,
+and production systems.
+
+I build with Python/‌Bash/Golang and work across Linux, Docker,
+CI/CD, networking, and backend systems.
+
+Currently deepening my experience in:
+Kubernetes · Terraform · GitOps · Observability
