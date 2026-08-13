@@ -1,10 +1,14 @@
-DevOps / Platform Engineer
+# DevOps / Platform Engineer
 
 Software engineer focused on infrastructure, automation,
-and production systems.
+and reliable production systems.
 
-I build with Python/‌Bash/Golang and work across Linux, Docker,
-CI/CD, networking, and backend systems.
+I build with `Python`, `Bash`, and `Golang`, working across
+Linux, containers, CI/CD, networking, backend systems,
+and scalable architecture.
 
 Currently deepening my experience in:
-Kubernetes · Terraform · GitOps · Observability
+- Kubernetes
+- Terraform
+- GitOps
+- Observability
