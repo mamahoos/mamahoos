@@ -10,3 +10,11 @@ Currently deepening my experience in:
 - Terraform
 - GitOps
 - Observability
+
+## Engineering interests
+
+- Infrastructure & platform engineering
+- System design and production architecture
+- Developer tooling and automation
+- Reliable CI/CD systems
+- Linux and containerized workloads
