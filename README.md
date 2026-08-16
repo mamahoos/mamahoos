@@ -1,6 +1,6 @@
 Software engineer who designs infrastructure and automates reliable production systems.
 
-I build software and infrastructure with `Python`, `Bash`,
+Proficient in `Python`, `Bash`,
 and `Golang`, with a focus on `Linux`, `containers`, `CI/CD`,
 `networking`, `backend systems`, and `scalable architecture`.
 
