@@ -1,5 +1,4 @@
-Software engineer focused on infrastructure, automation,
-and reliable production systems.
+Software engineer who designs infrastructure and automates reliable production systems.
 
 I build software and infrastructure with `Python`, `Bash`,
 and `Golang`, with a focus on `Linux`, `containers`, `CI/CD`,
