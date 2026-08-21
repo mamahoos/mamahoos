@@ -16,3 +16,4 @@ Engineering interests:
 - Developer tooling and automation
 - Reliable CI/CD systems
 - Linux and containerized workloads
+- Also a little in security
