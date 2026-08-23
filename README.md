@@ -1,4 +1,4 @@
-Software engineer who designs infrastructure and automates reliable production systems.
+Software engineer who **designs** infrastructure and **automates** reliable production systems.
 
 Proficient in `Python`, `Bash`,
 and `Golang`, with a focus on `Linux`, `containers`, `CI/CD`,
