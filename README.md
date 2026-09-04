@@ -20,4 +20,4 @@ Engineering interests:
 
 ---
 
-> <code>Do&nbsp;you&nbsp;want&nbsp;to&nbsp;know&nbsp;me?&nbsp;&nbsp;See&nbsp;my&nbsp;dotfiles.</code>
+<code>Do&nbsp;you&nbsp;want&nbsp;to&nbsp;know&nbsp;me?&nbsp;&nbsp;See&nbsp;my&nbsp;dotfiles.</code>
