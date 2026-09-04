@@ -17,3 +17,7 @@ Engineering interests:
 - Reliable CI/CD systems
 - Linux and containerized workloads
 - Also a little in security
+
+---
+
+> <code>Do&nbsp;you&nbsp;want&nbsp;to&nbsp;know&nbsp;me?&nbsp;&nbsp;See&nbsp;my&nbsp;dotfiles.</code>
